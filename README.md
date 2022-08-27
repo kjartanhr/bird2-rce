@@ -6,7 +6,7 @@ While I do plan on adding more routes to this project (e.g. GET /routes - to get
 
 Feel free to contribute via pull request.
 
-> ⚠️ This code should not be used in production.
+⚠️ This code should not be used in production.
 
 # License
 
