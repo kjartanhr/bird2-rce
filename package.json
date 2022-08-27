@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0"
+  },
+  "name": "bird2-rce",
+  "version": "1.0.0",
+  "description": "Get routing table information from bird2 remotely via REST",
+  "main": "main.js",
+  "author": "Kjartan Hrafnkelsson",
+  "license": "MIT"
+}
